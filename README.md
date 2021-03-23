@@ -1,2 +1,1 @@
-# APS
-algorithm problem solving
+# 🎲 APS (Algorithm Problem Solving)
