@@ -9,6 +9,6 @@
 - 삼성에서 주관하는 코딩 역량 강화 플랫폼 ([SWEA 홈페이지](https://swexpertacademy.com/main/main.do))
 - [SWEA 문제 난이도별 문제 풀이 기록](https://github.com/OH1107/APS/tree/main/SWEA)
 
-## 2. Baekjun (백준)
+## 2. Baekjoon (백준)
 
 ## 3. Programmers (프로그래머스)
