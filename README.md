@@ -1,14 +1,12 @@
 # 🎲 APS (Algorithm Problem Solving)
+> 알고리즘 문제 풀이를 기록하는 공간입니다.
+<br>  
 
-<br>
+### 1. [SWEA 문제 풀이 기록](https://github.com/OH1107/APS/tree/main/SWEA)
+- Difficult 1 ~ 6 난이도 문제 풀이
 
-## 1. SWEA (Software Expert Academy)
+### 2. [Baekjoon 문제 풀이 기록](https://github.com/OH1107/APS/tree/main/BAEKJOON)
+- 실버 ~ 골드 난이도 문제 풀이
 
-<img src="https://user-images.githubusercontent.com/67505208/112178364-05046580-8c3d-11eb-8e67-1359fc138302.png" alt="SWEA mainpage" width="70%">
-
-- 삼성에서 주관하는 코딩 역량 강화 플랫폼 ([SWEA 홈페이지](https://swexpertacademy.com/main/main.do))
-- [SWEA 문제 난이도별 문제 풀이 기록](https://github.com/OH1107/APS/tree/main/SWEA)
-
-## 2. Baekjoon (백준)
-
-## 3. Programmers (프로그래머스)
+### 3. [Programmers 문제 풀이 기록](https://github.com/OH1107/APS/tree/main/Programmers)
+- Level 1 ~ 2 난이도 문제 풀이
